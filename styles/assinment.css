@@ -156,3 +156,32 @@ nav li a {
 nav ul{
     display: flex;
 }
+.banner-content{
+    max-width: 580px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+
+/*banner styles */
+.title-banner{
+    font-size: 24px;
+    font-weight: 100;
+}
+
+.banner head title{
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.banner-profile-picture{
+    width: 0px;
+}
+
+.btn-bd{
+    background-color: #006A50;
+}
