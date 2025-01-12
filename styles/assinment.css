@@ -209,3 +209,14 @@ nav ul{
 .pillars-description{
   padding: 30;
 }
+
+/* pillars styles */
+.pillars-bd20{
+  display: flex;
+  gap: 24px;
+}
+.pillars-description{
+  padding: 30px;
+  box-shadow: 0px 6px 50px 0px;
+  color: black;
+}
