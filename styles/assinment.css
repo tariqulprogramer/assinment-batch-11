@@ -128,6 +128,18 @@
     color: #006A50;
 }
 
+.section-titel {
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+}
+
+.section-description{
+    font-size: medium;
+    color: black;
+}
+
+
 /* nav styles*/
 nav{
     display: flex;
@@ -184,4 +196,16 @@ nav ul{
 
 .btn-bd{
     background-color: #006A50;
+}
+
+
+/* pillars */
+.pillars{
+  display: flex;
+  gap: 24;
+}
+
+
+.pillars-description{
+  padding: 30;
 }
