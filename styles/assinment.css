@@ -208,7 +208,7 @@ nav ul{
   display: flex;
   border-radius: 5px;
   box-shadow:0px;
-  gap: 24px;
+  gap:24px;
   padding: 30px;
 }
 
@@ -216,3 +216,15 @@ nav ul{
   padding: 20px;
   display: flexbox;
 }
+
+.vision-container{
+  display: flex;
+  
+}
+
+.vision-description{
+  display: flex;
+  padding: 10px;
+}
+
+
