@@ -206,5 +206,13 @@ nav ul{
 /*bdPillar2 style*/
 .bdPillar2{
   display: flex;
+  border-radius: 5px;
+  box-shadow:0px;
+  gap: 24px;
+  padding: 30px;
 }
 
+.pillar-description{
+  padding: 20px;
+  display: flexbox;
+}
