@@ -170,11 +170,14 @@ nav ul{
 }
 .banner-content{
     max-width: 580px;
+    
 }
 
 .banner{
     display: flex;
     justify-content: space-between;
+    background-color: #67837c;
+    border-radius: 20px;
    
     
 }
@@ -199,24 +202,3 @@ nav ul{
 }
 
 
-/* pillars */
-.pillars{
-  display: flex;
-  gap: 24;
-}
-
-
-.pillars-description{
-  padding: 30;
-}
-
-/* pillars styles */
-.pillars-bd20{
-  display: flex;
-  gap: 24px;
-}
-.pillars-description{
-  padding: 30px;
-  box-shadow: 0px 6px 50px 0px;
-  color: black;
-}
