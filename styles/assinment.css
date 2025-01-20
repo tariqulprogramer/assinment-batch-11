@@ -203,3 +203,8 @@ nav ul{
 }
 
 
+/*bdPillar2 style*/
+.bdPillar2{
+  display: flex;
+}
+
