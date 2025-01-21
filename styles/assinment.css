@@ -205,26 +205,52 @@ nav ul{
 
 /*bdPillar2 style*/
 .bdPillar2{
-  display: flex;
+  display:flex;
   border-radius: 5px;
   box-shadow:0px;
   gap:24px;
   padding: 30px;
+  box-shadow: 10px;
 }
 
 .pillar-description{
   padding: 20px;
   display: flexbox;
+  
 }
-
-.vision-container{
-  display: flex;
+.bdpillar2{
+  background-color: bisque;
+  display:flexbox;
+  padding: 28px;
+  
+  background-color: cadetblue;
+  gap: 30px;
   
 }
 
+.vision-container{
+  display:flex;
+  gap: 40px;
+
+}
 .vision-description{
-  display: flex;
-  padding: 10px;
+  padding: 20px;
+  border-radius: 10px;
+ 
+}
+
+.visionbd{
+  display:flexbox;
+  padding: 40px;
+  border-radius: 30px;
+  background-color: cadetblue;
+  gap: 30px;
+  
+}
+
+.main{
+  margin-top: 130px;
+  margin-bottom: 130px;
 }
 
 
